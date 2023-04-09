@@ -6,7 +6,13 @@ Machine learning is a branch of [Artificial Intelligence (AI)](https://en.wikipe
 In particular, we will implement the [KNN algorithm](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) (K-Nearest-Neighbors). The k-nearest neighbors algorithm, also known as **KNN**, is a non-parametric, [supervised learning](https://en.wikipedia.org/wiki/Supervised_learning) classifier, which uses proximity to make classifications or predictions about the grouping of an individual data point.  
 
 **Let's give an example:**  
-Let's say we have three types of images of animals: images of cats, images of dogs, and images of birds. Now, we get a new image as an input, and without knowing anything about that image, we want to say whether it is an image of a dog, a cat, or a bird. We can't really say what is in the image, but based on images we have checked in the past, we know that the new image is very similar to images of dogs, so we can tag the new image as an image of a dog. We can continue like this iteratively and rely on our new tags.
+Let's say we have three types of images of animals: images of cats, images of dogs, and images of birds. Now, we get a new image as an input, and without knowing anything about that image, we want to say whether it is an image of a dog, a cat, or a bird. We can't really say what is in the image, but based on images we have checked in the past, we know that the new image is very similar to images of dogs, so we can tag the new image as an image of a dog. We can continue like this iteratively and rely on our new tags.  
+<p align="center">
+  <img 
+    width="300"
+    src="https://user-images.githubusercontent.com/92651125/230774472-d6bcb365-e6fc-4a32-9647-984caa38578b.png"
+  >
+</p>
 
 ## Running Instructions
 In the ML tasks, and in particular in this task, we will use [Google Colab](https://colab.research.google.com/) to run the code in an iterative and convenient way.  
