@@ -15,7 +15,7 @@ Let's say we have three types of images of animals: images of cats, images of do
 </p>
 
 ## Running Instructions
-In the ML tasks, and in particular in this task, we will use [Google Colab](https://colab.research.google.com/) to run the code in an iterative and convenient way.  
+In the ML tasks, and in particular in this task, we will use [Google Colab](https://colab.research.google.com/) to run the code in an iterative and convenient way ([Colab Tutorial](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb)).  
 To preview the notebook, you can click on `KNN.ipynb` in this repository.  
 In the notebook you can find a detailed explanation about the algorithm and the code step by step.  
 To run the code, first clone the repository to your computer with `git clone https://github.com/ido106/KNN-ML.git`, then drag the notebook (`KNN.ipynb`) to your [Google Drive](https://www.google.com/drive/).  
